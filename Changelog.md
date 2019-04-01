@@ -1,7 +1,3 @@
-## 0.1.6 (release date: 2017-08-30)
-
- * Added yarn (https://yarnpkg.com)
-
 ## 0.1.5 (release date: 2017-02-26)
 
  * Added php7.0-pgsql
